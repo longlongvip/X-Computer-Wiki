@@ -1,0 +1,16 @@
+# 设计模式-书
+- 设计模式
+- Head First 设计模式
+- Java 与模式
+- 深入浅出面向对象分析与设计
+- 代码大全
+- 代码整洁之道
+- 编写可读代码的艺术
+- 重构
+- 重构与模式
+- 修改代码的艺术
+- https://zhuanlan.zhihu.com/p/500548916
+- https://zhuanlan.zhihu.com/p/136255166
+- https://zhuanlan.zhihu.com/p/452820044
+- https://zhuanlan.zhihu.com/p/112982200
+- 

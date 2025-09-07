@@ -1,0 +1,49 @@
+<div>
+    编码
+    <form>
+        <select name="encode" id="coding">
+            <option >UTF-8</option>
+            <option>Unicode 16 LE</option>
+            <option>GB 18030</option>
+        </select>
+    </form>
+    
+    <div class="base64-1">
+        <div class="left">
+            输入
+            <textarea rows="5" cols="20"> </textarea>
+        </div>
+
+        <div class="right">
+            输出
+            <textarea rows="5" cols="20"> </textarea>
+        </div>
+    </div>
+    <div class="base64-2">
+        <button>编码</button>
+
+        <button>解码</button>
+
+        <button>清空</button>
+    </div>
+</div>
+
+<style>
+.base64-1 {
+    display: flex;
+    flex-direction: row;
+}
+
+.left, .right{
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    margin-right: 10px;
+    
+}
+
+.base64-2 {
+    display: flex;
+    flex-direction: row;
+}
+</style>

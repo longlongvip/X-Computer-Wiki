@@ -1,0 +1,17 @@
+# Visual Studio激活码
+- Visual Studio 2010
+YCFHQ9DWCYDKV88T2TMHG7BHP
+
+- Visual Studio 2013
+企业版Enterprise：BWG7X-J98B3-W34RT-33B3R-JVYW9
+
+- Visual Studio 2015
+专业版Professional：HMGNV-WCYXV-X7G9W-YCX63-B98R2
+企业版Enterprise：HM6NR-QXX7C-DFW2Y-8B82K-WTYJV
+
+- Visual Studio 2017
+专业版Professional：KBJFW-NXHK6-W4WJM-CRMQB-G3CDH
+企业版Enterprise：NJVYC-BMHX2-G77MM-4XJMR-6Q8QF
+
+- Visual Studio 2019 ：
+企业版Enterprise：BF8Y8-GN2QH-T84XB-QVY3B-RC4DF
